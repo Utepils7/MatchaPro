@@ -1,0 +1,26 @@
+@use 'variables';
+
+.blog {
+    background-color: #ffffff;
+}
+
+.clase2 {
+    color: black
+}
+
+nav {
+    background-color: #fffbf7!important;
+
+    button {
+        background-color: blue!important;
+    }
+}
+
+body {
+    background-color: variables.$color-background;
+}
+
+p {
+    font-family: variables.$font-primary;
+    font-size: variables.$parragraph-font-size;
+}

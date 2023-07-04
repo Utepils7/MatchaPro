@@ -1,0 +1,25 @@
+.blog {
+  background-color: #ffffff;
+}
+
+.clase2 {
+  color: black;
+}
+
+nav {
+  background-color: #fffbf7 !important;
+}
+nav button {
+  background-color: blue !important;
+}
+
+body {
+  background-color: #dde1dc;
+}
+
+p {
+  font-family: Serif;
+  font-size: 50px;
+}
+
+/*# sourceMappingURL=styles.css.map */
